@@ -30,7 +30,7 @@ Software engineer from Brazil, mainly focused on frontend stuff and its technolo
 
 - Languages: Python | JavaScript | C#
 - Back-end: .NET
-- Front-end: React Native | TypeScript
+- Front-end: React | TypeScript
 - Game Development: Unreal Engine
 
 
