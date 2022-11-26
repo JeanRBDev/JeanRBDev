@@ -4,7 +4,7 @@
 Software engineer from Brazil, mainly focused on frontend stuff and its technologies.
 </p>
 
-<img align=center height=300px src="https://i.imgur.com/tHnSQPj.png"/>
+<img align=center src="https://i.imgur.com/tHnSQPj.png"/>
 
 <br>
 
